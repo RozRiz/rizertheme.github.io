@@ -3,6 +3,9 @@
 :root .buttons-3dF5Kd {
   transition: opacity 150ms;
 }
+:root {
+      --home-icon-image: url('https://i.imgur.com/eIcueYp.gif');
+}
 :root .panels-3wFtMD > .container-YkUktl > .avatarWrapper-1B9FTW {
   position: fixed;
   bottom: 26.5px;
